@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/joshiy13](github.com/joshiy13)
 
-- 💖 Websites managed by me: [schummelware.com](https://schummelware.com) & [celestix.dev](https://celestix.dev)
+- 💖 Websites managed by me: [joshsarchive.org](https://joshsarchive.org)
 
 - 📫 How to reach me **admin@schummelware.com or https://schummelware.com/discord**
 
