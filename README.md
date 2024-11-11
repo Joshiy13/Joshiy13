@@ -7,7 +7,3 @@
 
 
 ![joshiy13's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joshiy13&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joshiy13&show_icons=true&locale=en&theme=tokyonight" alt="joshiy13" /></p>
-
-
